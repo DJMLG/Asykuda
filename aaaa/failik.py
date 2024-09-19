@@ -1,2 +1,2 @@
 print ("hello world")
-print ("Secound hello")
+print ("Second hello")
